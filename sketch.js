@@ -17,8 +17,6 @@ function draw(){
 	text("   zombies are dead because the player is dead", 5, 80);
 	text("> Need to add animations and make the story continue after the player killed all the zombies, which is to find and use the cure to make things right.", 5, 90)
 	text("> Has Bullets Limit. The Game gets over when the bullets are fully used.", 5, 100)
-	text("> The total score = score + round(bullets remaining / 2)", 5, 110);
-	text("*This is the part 1 of the game. The next part(the last one) is being developed.", 5, 120)
-	text("*These notes above are for development purpose", 5, 130)
+
 	
 }
